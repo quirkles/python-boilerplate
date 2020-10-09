@@ -1,4 +1,4 @@
-# Install pipx
+# Install pip
 pip --version > /dev/null 2>&1
 pip_exit_code=$?
 
